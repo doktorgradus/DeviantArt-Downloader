@@ -1,0 +1,24 @@
+body {
+    margin: 10px;
+    white-space: nowrap;
+}
+
+.popup__block-menu__title {
+    font-size: 15px;
+}
+.popup__block-menu__wrapper {
+    font-size: 14px;
+    padding: 8px 0;
+}
+.popup__block-menu__list {
+    list-style: none;
+    padding: 0;
+}
+.popup__block-menu__list-item {
+    cursor: pointer;
+    margin: 0;
+    padding: 2px 8px;
+}
+.popup__block-menu__list-item:hover {
+    background-color: rgba( 0, 0, 0, 0.2 );
+}
